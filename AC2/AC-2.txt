@@ -1,0 +1,7 @@
+AC2 Modelagem Relacional           DATA : 24/03/2019       
+   
+Matéria: LSQL
+
+RA: 1700558	Aluno : Lucas Gomes Silva
+
+Turma : ADS	Semestre : Segundo (Noturno) 
